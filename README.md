@@ -1,5 +1,5 @@
 # Ex03 Places Around Me
-## Date: 
+## Date: 12\9\25
 
 ## AIM
 To develop a website to display details about the places around my house.
